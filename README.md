@@ -12,6 +12,7 @@ For more information, along with a detailed code review check out the following 
 ## Installation
 Provided you already have NumPy, SciPy, Matplotlib, and OpenCV already installed, the `imutils` package is completely `pip`-installable:
 
+
 <pre>$ pip install imutils</pre>
 
 ## Finding function OpenCV functions by name
